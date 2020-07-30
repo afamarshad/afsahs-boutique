@@ -1,0 +1,26 @@
+header div div h1{
+font-family: "Edwardian Script ITC";
+font-size: 50px;
+}
+
+body{
+	color: white;
+}
+
+button{
+	color: black;
+}
+
+html{
+	margin:20px;
+}
+
+figure{
+	opacity: 0.9;
+}
+
+figure:hover{
+	/*-webkit-filter: brightness(150%);  
+    filter: brightness(150%);*/
+    opacity: 1;
+}
